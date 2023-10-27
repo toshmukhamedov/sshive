@@ -2,6 +2,8 @@
 
 SSHive is a Rust-powered application that simplifies the management of SSH connections. It provides a set of features designed to make your SSH workflow efficient and hassle-free.
 
+**Note: This project is currently under development.**
+
 ## Key Features
 
 - Blazingly fast: SSHive is built with performance in mind, ensuring speedy and responsive SSH connections.
