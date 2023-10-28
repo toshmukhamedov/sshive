@@ -10,13 +10,13 @@ SSHive is a Rust-powered application that simplifies the management of SSH conne
 - Fastly switch remote servers: Easily establish SSH connections to remote servers with minimal effort.
 - Configuration file: SSHive supports a configuration file to store commonly used SSH connection details, making it convenient to connect to frequently accessed servers.
 
-## Getting Started
+## Installation
 
-To get started with SSHive, follow these steps:
+To get started with SSHive, install it with `cargo`:
 
-1. Clone the repository: `git clone https://github.com/your-username/sshive.git`
-2. Build the project: `cargo build`
-3. Run SSHive: `cargo run -- [subcommand] [arguments]`
+```bash
+$ cargo install sshive
+```
 
 ## Usage
 
