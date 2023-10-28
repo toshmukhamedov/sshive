@@ -38,6 +38,18 @@ Contributions to SSHive are welcome! If you'd like to contribute, please follow 
 
 Please ensure that your code adheres to the project's coding style and includes appropriate tests.
 
+## Idealogy
+> The origin of the name SSHive stems from a combination of two key elements: `SSH` and `hive`.
+<details>
+  <summary>More</summary>
+
+- **SSH**: SSH stands for "Secure Shell." It is a widely used network protocol that enables secure remote access and communication between two systems. SSH provides encryption, authentication, and data integrity, making it a popular choice for securely managing remote servers.
+- **Hive**: The term "*hive*" typically refers to a structure or place where bees live and work together. It symbolizes collaboration, organization, and a centralized hub.
+> When these two elements are combined, `SSHive` represents a concept where SSH connections are centralized, organized, and managed securely, similar to how bees collaborate and work together in a hive. The name SSHive embodies the idea of a centralized platform for managing SSH connections and emphasizes the importance of security and collaboration in remote server management.
+
+> By choosing the name SSHive, it conveys the notion of a unified and secure environment for efficiently handling SSH connections, while also representing the cooperative nature of managing multiple remote servers in a central location.
+</details>
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
