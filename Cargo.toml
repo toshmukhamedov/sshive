@@ -1,6 +1,14 @@
 [package]
 name = "sshive"
-version = "0.1.0"
+version = "0.1.0-alpha.1"
+description = "SSHIve is a user-friendly app that simplifies remote server connectivity using SSH"
 edition = "2021"
+license = "MIT"
+keywords = ["cli", "ssh", "clap"]
+categories = ["command-line-utilities"]
+
 
 [dependencies]
+clap = "4.4.7"
+serde = { version = "1.0.190", features = ["derive"] }
+serde_json = "1.0.107"
