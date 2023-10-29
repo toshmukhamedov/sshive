@@ -1,6 +1,6 @@
 [package]
 name = "sshive"
-version = "0.1.0-alpha.3"
+version = "0.1.0-alpha.4"
 description = "SSHIve is a user-friendly app that simplifies remote server connectivity using SSH"
 homepage = "https://github.com/atoshmukhamedov/sshive"
 repository = "https://github.com/atoshmukhamedov/sshive"
