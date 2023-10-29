@@ -1,8 +1,33 @@
-# SSHive
+# SSHive [DEPRECATED]
 
 SSHive is a Rust-powered application that simplifies the management of SSH connections. It provides a set of features designed to make your SSH workflow efficient and hassle-free.
 
-**Note: This project is currently under development.**
+<span style="color:red">Notice:</span> **This project is deprecated.**
+
+## Deprecation Notice
+
+The sshive project has been deprecated as the functionality it provided is now available as built-in features in SSH. We recommend utilizing the native SSH features for your remote access and management needs.
+
+## Archive
+
+This repository will be archived and will no longer receive updates or maintenance. Feel free to fork the repository if you wish to continue development or use the existing codebase as a reference.
+
+## Alternatives
+
+If you are looking for alternatives to `sshive`, consider use this configuration with `ssh``:
+```js
+Host <alias>
+  User <user>
+  HostName <host>
+  Port <port>
+  RemoteCommand <shell>
+  RequestTTY force
+  IdentityFile <path>
+```
+#### Usage
+```bash
+$ ssh <alias>
+```
 
 ## Key Features
 
